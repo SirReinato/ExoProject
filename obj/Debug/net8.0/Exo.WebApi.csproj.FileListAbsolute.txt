@@ -271,3 +271,4 @@ C:\Users\renat\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\De
 C:\Users\renat\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.pdb
 C:\Users\renat\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\renat\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\ref\Exo.WebApi.dll
+C:\Users\renat\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net8.0\Exo.WebApi.sourcelink.json
